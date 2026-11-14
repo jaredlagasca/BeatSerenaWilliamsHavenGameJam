@@ -1,5 +1,6 @@
 # BeatSerenaWilliamsHavenGameJam
 Haven game jam game
+- By Jared, Jake, Ujwal
 Beat Serena Williams
 
 A web-based browser tennis game with a blackjack, coin toss, and audio.
